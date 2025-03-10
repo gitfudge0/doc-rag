@@ -1,0 +1,7 @@
+anthropic
+flask
+flask-cors
+beautifulsoup4
+chromadb
+sentence-transformers
+python-dotenv
